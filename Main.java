@@ -8,6 +8,12 @@ public class Main {
         medico1.atenderEmergencia();
         tecnico1.atenderEmergencia();
         dron1.atenderEmergencia();
+        
+        medico1.mostrarNombre();
+        tecnico1.mostrarNombre();
+        dron1.mostrarNombre();
 
+
+        
     }
 }
