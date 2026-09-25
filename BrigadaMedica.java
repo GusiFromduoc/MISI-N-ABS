@@ -1,7 +1,7 @@
 public class BrigadaMedica extends EquipoEmergencia {
     
     public BrigadaMedica (String nombre) {
-        super(nombre);
+    super(nombre);
     }
     
     @Override

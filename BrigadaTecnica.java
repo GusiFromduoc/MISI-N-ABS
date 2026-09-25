@@ -1,7 +1,7 @@
 public class BrigadaTecnica extends EquipoEmergencia {
     
-        public BrigadaTecnica (String nombre) {
-        super(nombre);
+    public BrigadaTecnica (String nombre) {
+    super(nombre);
     }
 
 

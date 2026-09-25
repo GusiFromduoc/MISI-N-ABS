@@ -1,7 +1,7 @@
 public class DronRescate extends EquipoEmergencia {
     
-        public DronRescate (String nombre) {
-        super(nombre);
+    public DronRescate (String nombre) {
+    super(nombre);
     }
 
     @Override

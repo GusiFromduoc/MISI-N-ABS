@@ -14,8 +14,6 @@ public abstract class EquipoEmergencia {
         return nombre;
     }
 
-    public void atenderEmergencia() {
-        System.out.println("Test");
-    }
+    public void atenderEmergencia() {}
 
 }
