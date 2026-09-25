@@ -14,6 +14,6 @@ public abstract class EquipoEmergencia {
         return nombre;
     }
 
-    public void atenderEmergencia() {}
+    public abstract void atenderEmergencia();
 
 }
