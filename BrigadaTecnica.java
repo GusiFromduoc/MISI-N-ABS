@@ -6,7 +6,7 @@ public class BrigadaTecnica extends EquipoEmergencia {
 
 
 
-        @Override
+    @Override
     public void atenderEmergencia() {
         System.out.println("El equipo de Tecnicos se dirige al lugar");
     }

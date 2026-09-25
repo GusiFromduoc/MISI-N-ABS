@@ -13,6 +13,7 @@ public abstract class EquipoEmergencia {
     public String getNombre() {
         return nombre;
     }
-    public void atenderEmergencia() {}
+    public void atenderEmergencia() {
+    }
 
 }
