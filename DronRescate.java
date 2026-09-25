@@ -7,5 +7,5 @@ public class DronRescate extends EquipoEmergencia {
     @Override
     public void atenderEmergencia() {
         System.out.println("Un dron se dirige al lugar");
-    };
+    }
 }

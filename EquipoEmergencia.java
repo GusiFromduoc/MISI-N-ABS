@@ -13,8 +13,9 @@ public abstract class EquipoEmergencia {
     public String getNombre() {
         return nombre;
     }
-    
+
     public void atenderEmergencia() {
-    };
+        System.out.println("Test");
+    }
 
 }
